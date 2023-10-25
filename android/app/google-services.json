@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188476409125",
+    "project_id": "volunegy",
+    "storage_bucket": "volunegy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188476409125:android:bae59b8620d1cfc86a46cc",
+        "android_client_info": {
+          "package_name": "com.ahmedheakl.volunegy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188476409125-kg5n612itcv0q9ebcrt391umv6uvh5pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwFz-1-Nyt_oQjS_tjQWZfJIBv4n6vlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188476409125-kg5n612itcv0q9ebcrt391umv6uvh5pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
